@@ -28,7 +28,7 @@ This is a simple "Coming Soon" webpage designed using HTML, CSS, and JavaScript.
 
 - The webpage is responsive and will adapt to different screen sizes, ensuring a consistent experience across devices.
 
-- Remember to update the `countDownDate` variable to a date in 2020 for the countdown to work correctly.
+- Remember to update the `countDownDate` variable to a valid date for the countdown to work correctly.
 
 ### License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this code for personal and commercial purposes. Attribution is not required, but it's always appreciated.
